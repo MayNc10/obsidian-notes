@@ -1,0 +1,9 @@
+- Systems of oppression come in two forms: productive and repressive
+- Productive systems *produce* a lower class necessary for a specific function
+	- This class has traits/roles that would give them power, and these systems exist to prevent that
+	- I.e. race (non-whites are needed to do labor whites don't want, but need to be denied the power of that labor), class (same thing with bourgesie and proletariat), gender(star) ("women" have control of the means of reproduction)
+- Repressive systems *repress* (or *erase*) an unwanted class
+	- i.e. oppositional sexism (not conforming to the rules of gender threaten the lie that those rules are "natural", and so classes of people which break those rules must be repressed, erased, denied a voice, etc.)
+- Systems give the most power to those who will reinforce the system, in a way this is what defines "correct behavior" under the system
+- idk none of these are particularly revalatory
+- use [[Symbols]] to represent

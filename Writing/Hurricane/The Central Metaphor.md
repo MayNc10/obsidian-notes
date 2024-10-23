@@ -1,0 +1,33 @@
+ - The story is a Hurricane
+	 - Everything revolves around the Eye
+	 - The Eye is the center of all the plot of the story
+	 - and yet there is nothing in the Eye
+	 - If the storm and the winds and rain are plot and events and conflict, then there is nothing happening in the Eye
+	 - and yet everything that does happen is based around the Eye
+ - So what does this mean?
+	 - many things
+	 - the story revolves around an event (the Eye)
+	 - What this event "actually" is will *never* be stated
+	 - all that will be depicted are characters reactions and assumptions *about* the event
+ - Themes
+	 - The central topic under view in this story is perspective
+	 - Our perspectives and biases and assumptions and fears and doubts and sometimes hopes
+	 - When we do not have enough information about a subject, we fill it with the above
+	 - Evaluating the truth of perspective
+		 - When people state a fact, there are two truths to evaluate 
+		 - One, is the statement true?
+		 - But also very important, Two, *Does this person believe this to be true?*
+		 - This is very important when evaluating the statements of Bigots
+		 - For example, when someone says "Trans women are men", there is obviously the claim itself to evaluate (obviously false), but there's also the question of whether they actually believe that. Many TME people seem to take them at their word, but obviously they are lying, because if they thought of us as men, they would respect us more. They see us as a type of woman, one that they can oppress, and lie to facilitate that.
+ - Deriving the Story from Axioms
+	 - The event will never be explained
+	 - But everything in the story is defined around the event
+	 - We start the story with a character mentioning something about the event to another character
+		 - I imagine a "morning after" scenario, maybe characters were inebriated, or otherwise don't remember all the events
+			 - This implies that they were there, and forgot. Is that more thematic than them not knowing and hearing about it? Is involvement important?
+	 - The plot swirls around the Eye, and so we must follow many different perspectives, passing the torch
+		 - char A -> char B -> char C -> A, like that maybe
+	 - How should the intensity vary? How does the category of our storm evolve?
+		 - It should be relative, right? Some characters will thinks bad while others won't mind as much
+		 - e.g. I imagine the character we follow first will get a panicked message about the event from another character, but our protag won't worry too much at first
+		 - I think this question mainly gets answered by the choices made about characters, their dynamics, and roles in the themes

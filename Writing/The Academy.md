@@ -1,0 +1,1 @@
+Satirize the vanguard party!

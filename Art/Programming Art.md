@@ -1,0 +1,6 @@
+- Source code communicates to us
+	- It tells us what the program does - it sends on an idea
+	- By if the work is clever, the source can communicate any idea you want
+- Pieces
+	- [[Foucault]] - Class Inheritance vs Trait Inheritance, "is a" vs "does a" relationship is like psychiatry and foucault
+	- [[Class Male]] - Use constant null-checking to represent society's constant "checking" of gender, to ensure you are performing your role correctly. 

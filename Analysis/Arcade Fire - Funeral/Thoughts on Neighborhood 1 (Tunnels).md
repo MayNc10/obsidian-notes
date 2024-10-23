@@ -1,0 +1,16 @@
+- Maybe about immigrant culture? connections to their Haitian ancestry
+- "Then we tried to name our babies / But we forgot all the names that / The names we used to know"
+	- Seems pretty obviously connected to a sense of losing identity and culture, forgetting native names (and names are symbols)
+- Directly after, "But sometimes we remember our bedrooms / And our parent's bedrooms / And the bedrooms of our friends / Then we think of our parents / Well, what ever happened to them?"
+- So the topic (loss of identity through immigration to a white supremacist nation) is pretty clear, so what do the tunnels mean?
+- Maybe the digging a tunnel is the immigration/mixing culture/integrating
+- "And if my parents are crying / Then I'll dig a tunnel" supports this idea, because immigration/assimilation is prompted by poor material conditions (what the parents are crying about)
+	- And previously, "And if the snow buries my / My neighborhood", same idea of suffering in the homeland
+- Does it mean anything that the signer digs a tunnel, but the "You" climbs out of the chimney?
+- "We let our hair grow long / And forget all we used to know / Then our skin gets thicker / From living out in the snow" is just culture change?
+- What does "You change all the lead / Sleeping in my head [to gold]" mean? 
+	- Maybe it represents an assimilationist feeling of the singers original culture being "lead" in this context, being worthless dead weight, which gets turned into gold (new culture)
+- "I hear you sing a golden hymn / The song I've been trying to sing" -  The gold is the dominant culture as previously established, and so the song is probably a metaphor for "performing" the culture well, for fitting in. The singer has been trying to fit in, but finds it hard, because of his heritage
+- "Purify the colors, purify my mind" assimilate the singer into the culture
+- "And spread the ashes of the colors / Over this heart of mine" The ashes of the original color (culture) are still in the singers heart, but this is loss is a sad one (ashes are not generally happy). I think even though the singer wants to assimilate for protection and advantage, they still feel sad that they are leaving their old culture behind. 
+  

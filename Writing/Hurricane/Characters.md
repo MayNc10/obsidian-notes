@@ -1,0 +1,8 @@
+- Characters have general "niches" they satisfy
+	- Based on their reactions, fears, assumptions, etc
+	- Or based on the themes they advance
+- Some character "archetypes"
+	- The Alarm. We must have an "in" to the story, something to get the reader nervous and excited and *interested* in whatever happened, and this character facilitates that
+	- The Alarm's contact. The Alarm will not be who we follow at first. I think it would be better to first follow a character who is friends/connected to The Alarm. I don't quite know this characters traits yet, except that they will be at least a slight foil to The Alarm
+	- The Liar. One of the explicit themes laid out is how we must also evaluate whether people believe the worldview they put forward. This character will be an example of someone who does not, maybe to effect bigotry, or to otherwise exploit and profit. 
+	- 

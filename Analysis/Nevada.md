@@ -1,0 +1,7 @@
+- Themes from a gift horse
+	- she wanted to write a trans story without talking about "transition", so maria is post and james is pre
+	- She wanted to show that even if someone were to have shown up and shown you that you could be trans, even pressured you to do it, it wouldn't have helped. We all have our own journeys
+- initial thoughts
+	- i feel like maria's avoidance can be seen as a difference between eras/types of trans girls. The trans girl that maria represents is one who started dealing with transness in an incredibly toxic environment, where transmisogyny was incredibly prevalent and there were basically no tgirl success stories. This means that the girls who accepted their transness and lived it where ones that basically had no choice, it was do that or die. I think the stress of that experience might lead to avoidance elsewhere.
+	- I certainly think its in contrast to tgirls like me, who came out later in a better environment, where being trans is recognized as a real possibility. I wouldn't have died necessarily, but if I didn't, then my life would be dull and grey and boring. I think that the fact that I chose this road with those options means girls like me are much less likely to be avoidant in the same way Maria is, because if I already decided on such a hard road in order to live a life worth living, I'm likely to apply that to other situations, like a dead relationship or a nothing job. 
+- 

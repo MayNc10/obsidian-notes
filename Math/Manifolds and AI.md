@@ -1,0 +1,5 @@
+- manifold -> embedding in higher dimentional space -> function relation between different variables
+- i.e. if we had dimensions $[x_1, x_2, x_3]$, but we knew that all of our data points obey the relationship $x_3 = cos(x_1)$, then we have a 2d manifold in 3D space, bc we only need two variables ($x_1$ and $x_2$) to describe any point
+- the lower our embedding dimension compared to the state space dimension, the more "complex" or "restricted" the relationship is between the variables
+- The more restricted the relationship is, the less likely a random point in the state space will be a valid data point
+- therefore, our model is more accurate the lower its embedding dimension is?

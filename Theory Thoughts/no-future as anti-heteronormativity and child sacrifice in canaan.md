@@ -1,0 +1,4 @@
+- make some art about moloch
+- read about carthiginia/punic
+	- and baal and others
+	- 

@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "34dc2c4f0e1e9d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63f34c7ff80f6ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49fd81e21b0d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory Thoughts/Dengism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dengism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c06920dddf3fb88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4907a909dfe871f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdc7780dc7fd79e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2411809d1a6bd91f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9e463749b3b6367e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f26589fe4d8a575",
+    "type": "split",
+    "children": [
+      {
+        "id": "41acbbccf924e488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6037706f28407568",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theory Thoughts/Dengism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dengism"
+            }
+          },
+          {
+            "id": "4e8a878e5069d86e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Theory Thoughts/no-future as anti-heteronormativity and child sacrifice in canaan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from no-future as anti-heteronormativity and child sacrifice in canaan"
+            }
+          },
+          {
+            "id": "9ab38f49035b7946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60c45c150bedd90c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Theory Thoughts/Dengism.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dengism"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f49fd81e21b0d6c6",
+  "lastOpenFiles": [
+    "Theory Thoughts/Dengism.md",
+    "remote/does this count.md",
+    "remote",
+    "Theory Thoughts/no-future as anti-heteronormativity and child sacrifice in canaan.md",
+    "Theory Thoughts/Authority Notes.md",
+    "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
+    "Comp Geometry/Estimating Value of h.md",
+    "Comp Geometry/Convex Hull.md",
+    "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
+    "Art/Programming Art.md",
+    "Art/Class Male.md",
+    "Theory Thoughts/Rigorous Definition of Goodhart's Law.md",
+    "Comp Geometry/Untitled 1.md",
+    "Comp Geometry/HW1.md",
+    "Math/Classification Nets.md",
+    "Math/AI and Probability.md",
+    "Theory Thoughts/Systems of Oppression/Symbols.md",
+    "Theory Thoughts/Systems of Oppression/Systems.md",
+    "Theory Thoughts/Systems of Oppression/Reinforcement of Systems.md",
+    "Theory Thoughts/Systems of Oppression/Intersectionality.md",
+    "EN47/Vector Optimization.md",
+    "EN47/Sorting.md",
+    "Math/Random Variables.md",
+    "Math/Manifolds and AI.md",
+    "Math/Function Estimation.md",
+    "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
+    "Theory Thoughts/Pressure Gradients.md",
+    "Japanese/Agglutinative Conjugation with Matrices.md",
+    "EN47/heap sort notes.canvas",
+    "EN47/Hw3.pdf",
+    "EN47/Hw2.pdf",
+    "EN47",
+    "Comp Geometry/HW1",
+    "Comp Geometry",
+    "Japanese",
+    "Voice Training Diary",
+    "Writing/Hurricane"
+  ]
+}
