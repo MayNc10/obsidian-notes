@@ -30,7 +30,7 @@
 	- "The Trial" - In the Trial, the very same people whose violence caused Pink's suffering and turn to fascism argue that in fact they all needed more control over him, that if they could've done more it would've fixed him. This obvious irony here represents the society's attitude towards those who take power structure to their extreme (and logical conclusion), where we disavow the people who are but simple products of the systems we put in place. When the domestic abuser is shamed for not being a "real man", when liberal democracies spiral rightwards ("not very democratic"), when capitalism destroys the planet ("it's actually corporatism!"); these things are taken as "aberrations" instead of the inevitable conclusion. The album correctly identifies that the violence Pink caused stemmed from his own "deepest fear" and demands that he be his true self. 
 	- "Outside the Wall" - This song, which loops back into the start of the album, is normally taken as evidence for the neverending cycle of Pink's struggles, but I think especially under this reading, it can be taken in a slightly more positive note. The song describes the people outside the wall, how they struggle to help the person they care for trapped inside, and because Pink has been our main narrator for the entire album so far, I don't think it's too out there to suggest he is our narrator here as well. this implies, then, that he is actually outside the wall, working with all the other bleeding hearts and artists to tear it down. I think this is reflective of the cycles of support we see in queer communities - Often it takes talking to a transgender person to understand dysphoria and to start moving forward, and after transition that debt is payed back by helping others you notice behind the wall. We all support each other, and it is this cycle of support that the album references, not a cycle of suffering. 
 - Leitmotifs:
-	- .
+	- 
 - Mae’s notes:
 	- Make sure that you have a clear line thru ur piece and analysis
 	- This is a study :)
@@ -54,4 +54,14 @@
 		- Any point that can be connected to larger themes, not just about society analysis (which should be in every point), but to themes about the process of reading my analyses into this text
 			- metanalytical
 	- conclusion?
+- "Interesting points"
+	- points where our reading helps explain elements of the nominal reading
+	- pinks turn from repression to fascism is easily explained in our transfeminine perspective, what does this say about the general work? why does pink turn to fascism there?
+		- still gotta loop with one back
+	- Run like hell - it's not terribly hard to see that fascists in general have this self hating character; fascism is a demoralizing ideology - but under the transfem it's incredibly obvious
+	- Don't leave me now - i'm quite confident that the reading of this song is just the generalized version of our transfem reading; is there something there?
+		- "Waters, in a 1980 interview with Jim Ladd, described this song as being about "two people who have treated each other very badly", yet are devastated at the prospect of their relationship ending." 
+		- I need to find more evidence of the above being a common reading, because to me seeing this as Pink overperforming (masculinity in the trans case, but general conformity) is the most enlightening way to understand this.
+- sources for normative reading
+	- http://www.pink-floyd.org/artint/119.htm
 	- 
