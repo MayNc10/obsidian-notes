@@ -64,4 +64,11 @@
 		- I need to find more evidence of the above being a common reading, because to me seeing this as Pink overperforming (masculinity in the trans case, but general conformity) is the most enlightening way to understand this.
 - sources for normative reading
 	- http://www.pink-floyd.org/artint/119.htm
-	- 
+- "Sections" of analysis
+	- Formation of normative identity - "The Happiest Days of Our Lives", "Another Brick in the Wall, Pt. 2", "Mother"
+		- These songs focus specifically on the *formation* of identity, following Pink's experience with the school system and the nuclear family. We see forces in Pink's life designed to force him to be a certain way, including the process of coercive gender assignment. 
+	- Pressure to conform, and masculinity as performance and violence - "In the Flesh?", "Young Lust", "Don't Leave Me Now", "Nobody Home", "In the Flesh", "Run Like Hell"
+	- Society's relation to categorical assignment -  "The Thin Ice", "The Trial"
+	- Trans community - "Hey You", "Outside the Wall" 
+	- Dysphoria - "Empty Spaces", "One of My Turns",  "Comfortably Numb", "The Show Must Go On"
+- What is the best way to structure this essay?

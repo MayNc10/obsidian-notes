@@ -40,5 +40,5 @@ Next, we must show that the left hand side contains all categories with hierarch
 $$\forall c \in h^{-1}(a) \cap h^{-1}(b): c \in \mathcal{L}, c \in a$$
 Consider any one $c \in h^{-1}(a) \cap h^{-1}(b) \cap a$. Clearly, because $c \in h^{-1}(b), \exists c' \in b: c' \in h^{-1}(a)$ (essentially, because $c$ is in the intersection of the hierarchies of both sets, there is a complementary $c'$ in $b$, also in the hierarchies of both sets). It is also clear that $a \land b$ contains one of $c, c'$. If $c = c'$, then $c \in a \land b$ and $c \in a$, so $c \in \mathcal{L}$. Now, if $c \ne c'$, then $c > c'$ because of the requirement function .This means $c' \in a \land b$  and $c \notin a \land b$. When we go to test whether $c$ should be in $\mathcal{L}$, we compare it to $c'$. We just supposed that $c \gt c'$, so this means that $c$ will satisfy our test. 
 
-$$a \land (a \lor b) = a$$The proof is much the same, with the difference that $c \ne c'$ implies $c < c'$, but the consequences are the same, 
+$$a \land (a \lor b) = a$$The proof is much the same, with the difference that $c \ne c'$ implies $c < c'$, but the consequences are the same.
 
