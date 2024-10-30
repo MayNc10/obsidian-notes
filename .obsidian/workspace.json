@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d63f34c7ff80f6ce",
+        "id": "79b6147899ec54dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f49fd81e21b0d6c6",
+            "id": "dfa7946744405d15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A Transfeminine Perspective on Pink Floyd's The Wall"
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of A Transfeminine Perspective on Pink Floyd's The Wall"
+              "title": "Outline"
             }
           }
         ],
@@ -163,10 +157,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f49fd81e21b0d6c6",
+  "active": "dfa7946744405d15",
   "lastOpenFiles": [
-    "Analysis/Arcade Fire - Funeral/Thoughts on Neighborhood 1 (Tunnels).md",
+    "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
+    "Theory Thoughts/Historical Materialism.md",
+    "Comp Geometry/Convex Hull Corner Alg.md",
+    "Theory Thoughts/Systems of Oppression/Define a Ring.md",
     "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
+    "Analysis/Arcade Fire - Funeral/Thoughts on Neighborhood 1 (Tunnels).md",
     "Theory Thoughts/Dengism.md",
     "remote/does this count.md",
     "remote",
@@ -188,11 +186,7 @@
     "Theory Thoughts/Systems of Oppression/Intersectionality.md",
     "EN47/Vector Optimization.md",
     "EN47/Sorting.md",
-    "Math/Random Variables.md",
-    "Math/Manifolds and AI.md",
-    "Math/Function Estimation.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
-    "Theory Thoughts/Pressure Gradients.md",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
     "EN47/Hw2.pdf",
