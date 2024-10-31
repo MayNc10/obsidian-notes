@@ -72,3 +72,47 @@
 	- Trans community - "Hey You", "Outside the Wall" 
 	- Dysphoria - "Empty Spaces", "One of My Turns",  "Comfortably Numb", "The Show Must Go On"
 - What is the best way to structure this essay?
+	- "Chronological"
+		- Advantages
+			- Readers may find following the narrative of the album easier
+			- Provides better continuity, since we won't be jumping around the album
+		- Disadvantages
+			- Similar points across songs can't be as unified
+	- Point based:
+		- Advantages
+			- Unifies similar points of analysis and metaphors
+		- Disadvantages
+			- May be harder for readers to understand The Wall's cohesive narrative
+	- Meta
+		- Structure: tour through my meta experience understanding this album, occasionally diverting
+		- Advantages
+			- Allows for a more flexible "tour" through the album
+			- Allows for easier digressions to meta points
+		- Disadvantages
+			- More casual tone, which might be an advantage actually
+- Meta Structure (draft 1)
+	- Intro
+		- My encounter with the album
+			- Bit cringy but thats this structure for you ig
+		- What gripped me about this album
+	- 1 - Dysphoria
+		- "Comfortably Numb" will dominate this section, with the rest being mostly "One of My Turns"
+	-  2 - Pressure to Perform/Formation of Identity
+		- Dysphoria in "One of My Turns" is caused by pressure to have conforming heterosexual sex, so this leads into other points about conforming
+		- "Young Lust" in the beginning
+		- Turn to formation - "Another Brick in the Wall, Pt. 2", "Mother"
+		- Loop back around to "Don't Leave Me Now"
+			- Is there a general explanation for Pink's apparent *need* to conform to violent expectations?
+	- 3 - Violence
+		- The violence in "Don't Leave Me Now" leads to this discussion of Pink's violence in general
+		- "In the Flesh", "Run Like Hell", and the general second half of the album
+			- How does the transfem reading inform our general understanding of fascism?
+	- 4 - Resolution
+		- Taking a more chronological continuation
+		- Start with "The Trial", with occasional references to "The Thin Ice"
+		- "Outside The Wall" as community, and "Hey You"
+			- Why is "Hey You" in the middle of the album, if we choose to read its themes as in line with the ending?
+	- 5 - Metaperspective
+		- What is the value of readings like this? How do they enhance our understanding of the work, even when removed from this context?
+		- Brief discussion of epistemic violence
+	- Conclusion

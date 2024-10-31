@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd718b5e7da1cdc6",
+        "id": "d506ed4c15f71de2",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f3b82dd5b13f08",
+            "id": "c4331cddcd598cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,13 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f3b82dd5b13f08",
+  "active": "c4331cddcd598cdc",
   "lastOpenFiles": [
     "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
+    "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
     "Theory Thoughts/Historical Materialism.md",
     "Comp Geometry/Convex Hull Corner Alg.md",
     "Theory Thoughts/Systems of Oppression/Define a Ring.md",
-    "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
     "Analysis/Arcade Fire - Funeral/Thoughts on Neighborhood 1 (Tunnels).md",
     "Theory Thoughts/Dengism.md",
     "remote/does this count.md",
