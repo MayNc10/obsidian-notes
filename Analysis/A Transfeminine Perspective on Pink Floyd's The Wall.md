@@ -94,25 +94,114 @@
 	- Intro
 		- My encounter with the album
 			- Bit cringy but thats this structure for you ig
+			- I went to a laser show with some friends
+			- it was kind of a compilation/mashup of this album
+			- I was immediately gripped with this reading, and having a transfem perspective coming in to the work informed my understanding as the show progressed
+			- Came to a climax with "Comfortably Numb"
 		- What gripped me about this album
+			- "Comfortably Numb" as a song resonated with my experience of dysphoria
+			- The characters of Pink's mother and girlfriend evoked representations of societal forces pressuring Pink to conform
+			- I just kept looking and it kept making sense
+		- Maybe quick summary of the album, or at least give the premise
+		- Set out our goal in this essay?
 	- 1 - Dysphoria
 		- "Comfortably Numb" will dominate this section, with the rest being mostly "One of My Turns"
+		- Summary of Comfortably Numb - after having a panic attack, Pink is found in his room by his manager, who gets a doctor. The doctor gives him a medicine to make him disassociate, so that he can stay together enough to play the show. 
+		- This immediately resonates with my experience of dysphoria, and with a lot of trans art already in existence
+			- The doctor becomes a metaphor for the brain, which forces the dysphoric (likely child) into disassociation in order to keep them functioning
+			- Pink references his experience of childhood in this song, solidifying that reading
+			-  "I can't explain, you would not understand // This is not how I am"
+			- "When I was a child, I caught a fleeting glimpse // Out of the corner of my eye // I turned to look, but it was gone // I cannot put my finger on it now // The child is grown, the dream is gone"
+			- Similar to the matrix, where the blue pill (erasing Neo's memory and keeping him confined in the matrix) is a metaphor for antidepressants used to medicate dysphoric patients without solving the underlying problem
+			- Maybe can also talk a little about *I Saw The TV Glow* (same idea as above)
+		- How does Pink get here? We turn to "One of My Turns"
+		- Pink is bringing a girl (groupie? sex worker? look into it) back to his hotel to have sex, but immediately starts disassociating
+			- "And nothing is very much fun anymore"
+			- "But I can feel one of my turns coming on // I feel, cold as a razor blade // Tight as a tourniquet // Dry as a funeral drum"
+			- "Don't look so frightened, this is just a passing phase // One of my bad days"
+		- We understand this as a trigger; sex is often an activity that induces massive dysphoria for a number of reasons
+		- So why does Pink even try to have sex in the first place? Well,
 	-  2 - Pressure to Perform/Formation of Identity
 		- Dysphoria in "One of My Turns" is caused by pressure to have conforming heterosexual sex, so this leads into other points about conforming
 		- "Young Lust" in the beginning
+			- Young Lust is the song preceding "One of My Turns"
+			- Very rockin', "manly" song, basically "im so cool i wanna have sex"
+			- Of course, this is incredible tonal dissonance to the previous songs (which have been for the most part sad, dreary, and introspective)
+			- So why the change? We read this as Pink attempting to play a role, of a typical rock star/man
+			- Pink "[needs] a dirty woman" to "Make [him] feel like a real man" (and what a loaded statement that is)
 		- Turn to formation - "Another Brick in the Wall, Pt. 2", "Mother"
+		- So what is the album before this shift like? It more intentionally covers "pressure to perform" in Pink's life
+		- We get the classic "Another Brick in the Wall, Pt. 2" (preceded by "The Happiest Days of Our Lives"), which cover Pink's experience with schooling, suffering abuse at the hands of teachers
+			- The education system plays a critical part of normative identity formation, being the site of much violence intended to police children's self-expression
+			- Children are not born with any understanding of what girls or boys are "supposed" to be like, and school is an important site where this knowledge is communicated, often violently
+			- What's another site like that? The home!
+		- In this section of the album, we also have "Mother", recounting Pink's life with his mother (after the death of his father). We see his mother being abusive by restricting his identity and expression, attempting to make him into a cookie-cutter version of what society wants
+			- "Mama's gonna put all her fears into you"
+			- "Mama's gonna keep you right here under her wing // She won't let you fly, but she might let you sing"
+			- "of course mama's gonna help build the wall"
+			- etc.
 		- Loop back around to "Don't Leave Me Now"
 			- Is there a general explanation for Pink's apparent *need* to conform to violent expectations?
+			- After Pink's episode with attempting to have sex, we see Pink beg the terrified girl not to leave him
+			- This would be a semi-normal song about a man not wanting a woman to leave him, except his reasons are far from what you'd expect
+			- "I need you, babe // To put through the shredder in front of my friends"
+			- "When you know how I need you ... To beat to a pulp on a Saturday night"
+			- Pink is incredibly honest about a need to not just be violent, but to *perform* violence, in front of onlookers who can approve of his performance
+			- So why does he feel like he *needs* to perform violence? Well, ...
 	- 3 - Violence
 		- The violence in "Don't Leave Me Now" leads to this discussion of Pink's violence in general
 		- "In the Flesh", "Run Like Hell", and the general second half of the album
 			- How does the transfem reading inform our general understanding of fascism?
+		- pink's outward violence an expression of inner fear 
+			- After "comfortably numb", he returns to the stage a closed-off, uncaring, unempathetic fascist - he is anti-semitic, racist, queerphobic, etc.
+			- After being forced to repress by his manager and a doctor (stand-ins for forces in society - psychiatry and capitalism), pink understands that he cannot let his mask slip more
+				- Why exactly? do actions in "Comfortably Numb" + prev suggest violent retaliation?
+			- In order to perform masculinity "perfectly", pink plays into more violence, similar to "Don't Leave Me Now" except even more aggressive
+			- This especially comes our in "Run Like Hell"
+				- "You better make your face up in // your favorite disguise", "With your empty smile", "Feel the bile rising from your guilty past", "Keep your dirty feelings / Deep inside"
+			- This expresses general truths about fascism - it is a demoralizing ideology externalizing the fears its believers have about their position within the world
+			- 
 	- 4 - Resolution
 		- Taking a more chronological continuation
 		- Start with "The Trial", with occasional references to "The Thin Ice"
 		- "Outside The Wall" as community, and "Hey You"
 			- Why is "Hey You" in the middle of the album, if we choose to read its themes as in line with the ending?
+		- Eventually, pink stops his fascism
+			- Why? a close reading is needed, but the main explanation in this perspective is that since Pink is not who his fascism idolizes, he gets no power out of pushing his ideology, and the self hatred eventually reaches a peak, a crest over the wall, and collapses it
+		- We then see the trial, in which elements of society that abused Pink shirk their responsibility for his fate and actions. This reflects societal attitudes towards the worst excesses of masculinity, the patriarchy, capitalism, etc. - by arguing that actions reached through the logical conclusion of oppressive ideology are actually betrayals of that ideology's "beliefs" or "intentions" (and also arguing that through *more* abuse the problem would go away) - but this isn't a transfem understanding so i wont speak much on it
+		- The conclusion of the court is that Pink's repression was the cause of his violence, and that he must be "exposed before [his] peers" by tearing the wall down
+			- What does it mean that the judge took the side of his wife and mother, but still ordered the tearing down of the wall?
+		- After the wall is torn down, in "Outside the Wall", a narrator sings about the fate of those outside the wall, who spend their energy trying to tear it down. If we choose to assume this narrator is Pink, then we can understand her actions here as community work in a way - she is trying to save those who are suffering a fate similar to her, trying to tear down their walls. Under this reading, the album looping doesn't represent a nihilistic view of some cycle of repression, but rather the continually work that must be done to help others around us. 
+		- Meta - is the work being done by writing this essay in any way similar to Pink's work outside the wall? Is there anything interesting in the observation that Pink's work in the album is paralleled by the work done by Pink Floyd in making this album (if we choose to read it as transfem art)? 
+				- this leads into the metaperspective
 	- 5 - Metaperspective
 		- What is the value of readings like this? How do they enhance our understanding of the work, even when removed from this context?
 		- Brief discussion of epistemic violence
+		- If we read this album in a transfem perspective, what does that say about the process of creating it? Would it not be the same as Pink's work *inside* the album, tearing down people's walls? And even if the album wasn't created with this intention in mind, through taking this lens the same truths are revealed. And so, this is the value of taking these perspectives! Much can be said about the intellectual value of reading these narratives, of the need to resist epistemic violence, but ultimately, the point is this - That creating transfem art helps others trapped behind the wall, and these readings, while not entire substitutes for the art (aesthetics stuff ig), can accomplish similar goals.  
 	- Conclusion
+		- Is it even necessary after that? What could be a more beautiful ending
+- Mae comments
+	- mention setting, can be vaue
+	- relationship with it more important than context surrounding contact
+	- not bad idea to relate to othere works
+	- young lust - focus on \[feigned] masculinity aspect of sex
+	- "outward violence as symptom of cracking mental state. focusing on closing off doubt of himself, identity, personhood, security, etc"
+	- Introduce metaperspective early
+- Draft Attempt
+	- 0 - INTRO - easily the hardest part
+	- 1 - DYSPHORIA
+		- The song I was immediately gripped by, at the show and in later listening, was "Comfortably Numb". The song describes Pink's experience of being given drugs by a doctor (on the orders of his manager), so that he can perform an upcoming show. I immediately related to Pink's extreme disassociation in the song, as that was the defense mechanism I used to exist before I transitioned. Verses such as "When I was a child, I caught a fleeting glimpse // Out of the corner of my eye // I turned to look, but it was gone // I cannot put my finger on it now // The child is grown, the dream is gone" were so poignant to me in this choice of framing that I felt compelled to further analyze the work. So what is revealed when we take this perspective on "Comfortably Numb"? Well, in the "traditional" understanding of this work, Pink is preparing for a show, but suffers a mental breakdown and is forced to disassociate in order to put on a proper performance. Performance has long been used as a metaphor for the societal interactions around the expression of gender, and we will take this definition in our analysis. Understanding Pink's performance as referring to his gender and taking him to be a closeted trans woman implies that the performance he is preparing for is a performance of masculinity, to a crowd representing society. Obviously, a "good" performance is required, lest Pink be subjected to society's ire. This then casts the doctor as some well-intentioned but ultimately traitorous force, that values Pink's performance above his desires and understanding of himself. In this way, this part of "The Wall" is paralleled by other well-known works on the trans experience such as "The Matrix", which at its core is a movie about valuing living your "true self" over a compliance that is in some ways "easier" but ultimately hollow. 
+		- In order to expand our perspective from this starting point, we must begin asking questions of the text while preserving our frame of reference. One obvious question to ask is: "What has caused Pink to collapse so completely that medication is required?". For that, we step backwards in the album until we reach "One of My Turns", which recounts material events immediately preceding Pink's breakdown. In the song, Pink brings a groupie back to his hotel, but almost immediately starts disassociating ("I feel, cold as a razor blade // Tight as a tourniquet // Dry as a funeral drum"), which turns into a violent outburst ("Don't look so frightened, this is just a passing phase // One of my bad days"), ending with Pink almost committing suicide via defenestration ("Would ya like to learn to fly? // Would ya? // Would ya like to me try?"). It can be extrapolated from the song immediately preceding "One of My Turns" that Pink likely intended to have sex with the groupie. This fits into our reading perfectly as a trigger of a dysphoric breakdown. In fact, by analyzing the preceding song more carefully, we will see exactly why this particular interaction is so unthinkable to Pink's internal self-understanding that it causes a complete mental breakdown. 
+	- 2 - STAGE FRIGHT
+		- The song we will consider next is "Young Lust", the song before "One of My Turns". "Young Lust" is about as stereotypical as one can get, with Pink expressing little more than his need to find a woman to have sex with and to "Make [him] a real man". This song exists in sharp tonal contrast to the song that precede it on the album, which are overall somber reflections on abuse Pink suffered as a child. This discontinuity can be read as a forced change Pink is attempting, in order to be more of a "real man". 
+		- So what abuse does Pink suffer, and how can we incorporate it into our reading? Most well known is the song "Another Brick in the Wall, Pt. 2" (and its prequel "The Happiest Days of Our Lives"), which both recount Pink's abuse in the school system. The education system is an important tool in modern society used in the process normative identity formation, being the site of much violence intended to police children's self-expression. A school is one of the key places where children are made to understand how they are "supposed" to be, which includes how girls and boys "should" act. We see this discussed in the aforementioned songs, with lyrics such as "There were certain teachers who // Would hurt the children in any way they could // By pouring their derision upon anything we did // Exposing every weakness", and the classic "We don't need no education // We don't need no thought control". 
+		- Another site of this kind of violence is the home, and this is also discussed, most importantly in the song "Mother". This song is a dialogue between Pink and His mother, in which his mother's role in the coercive process of forming identity is discussed. Lines like "Mama's gonna put all her fears into you" are an expression of the ways that society passes down normative views and fears, and can also be related to the ways that society's internal anxieties over gender (and other subjects) get expressed as violence through transphobia. "Mama's gonna keep baby healthy and clean" is not very reassuring when preceded by "Mama will always find out where you've been", nor should it be; Given its connection to fascist rhetoric and "undesirables", "Cleanliness" should not be trusted when considering Pink to be transgender. 
+		- One final song that also examines Pink's relation to normative roles is "Don't Leave Me Now", coming in right after "One of My Turns". This song would appear to be a standard song about a male singer wanting his girlfriend back, except that his reasons for needing her are incredibly striking. "I need you, babe // To put through the shredder in front of my friends" and "How could you go? // When you know I need you ... To beat to a pulp on a Saturday night" are lines that make explicit the violence that singers in Pink's position often commit against their romantic partners. An incredibly important point is that Pink doesn't just require a victim, he needs there to be an audience for his violence, so that he can get their approval. In other words, he needs to *perform* violence. 
+	- 3 - VIOLENCE
+		- Pink's need to perform violence is echoed in many other songs, particular on the latter half of the album. This is evident of the connection between masculinity and violence, as violence is a requirement to perform masculinity to an excess. Pink feels the need to perform masculinity correctly in order to not be targeted by society for failing to be a man, and so leans into the worst excesses of the gender. This is amplified after "Comfortably Numb", with the songs "In The Flesh" and "Run Like Hell" being of the most importance. "In The Flesh" sees Pink on stage as a very different person: overtly anti-Semitic, racist, and queerphobic. We can understand this turn to aggressive, masculine fascism as an action done out of fear, to ensure that Pink's manliness is never questioned again. This reading is further evidenced by the next song "Run Like Hell". While the plot of the song has Pink encouraging fascist violence from his fans, there are a number of lyrics referencing internal emotions, and we will understand these lines as being directed at Pink himself, essentially bifurcating the song into an outward and inward monologue. Verses like You better make your face up in // your favorite disguise", "With your empty smile", "Feel the bile rising from your guilty past", "Keep your dirty feelings / Deep inside" are arguably about Pink himself, because whoever the listener is, Pink has to know their internal emotions, desires, and fears, which point to him as the listener. Pink's internal monologue being threats to himself reference guilt and desires support the earlier claim that Pink's outward actions represent inner fear. This is also in line with common understanding of those who subscribe to fascist movements - Fascism is a deeply demoralizing ideology, and its believers externalize through violence their inner fears and anxieties about their position within the world. The violence Pink espouses eventually turns into a full-scale riot, with Pink's front eventually collapsing as he begs for the violence to stop. 
+	- 4 - JUDGEMENT
+		- After Pink stops the violence, he is made to take responsibility in "The Trial".  In this trial, the elements of society that abused Pink shirk their responsibility for his fate and actions. This reflects societal attitudes towards the worst excesses of masculinity, the patriarchy, capitalism, etc. - by arguing that actions reached through the logical conclusion of oppressive ideology are actually betrayals of that ideology's "beliefs" or "intentions" (and also arguing that through *more* abuse the problem would go away). This is an extremely common theme with regards to many subjects, including gender variance - the argument that people "become" gay or trans because of the failures of their parents (in particular their fathers) speaks to this effect. The judge ultimately concludes that Pink's repression was the cause of his violence, and that he must be "exposed before [his] peers" by tearing the wall down. 
+		- The final song on the album, "Outside the Wall", has a narrator singing about the fate of those outside the wall, who spend their energy trying to tear it down. If we choose to assume this narrator is Pink, then we can understand her actions here as community work in a way - she is trying to save those who are suffering a fate similar to her, trying to tear down their walls. Under this reading, the album looping doesn't represent a nihilistic view of some cycle of repression, but rather the continually work that must be done to help others around us. (should this go here)
+	- 5 - META
+		- So, in the end, what was accomplished through this reading exercise? Was there any point in the process? 
+		- We have so far taken a transfeminine perspective when understanding the art itself, but context can be equally important to understanding the significance of a piece? If we see this as a transfeminine work, what does that say about the process of creating and releasing it? If a closeted trans woman hears this work and decides to start transition, does it imply that the work helped tear down her personal wall? Is the creation of this art then not a corollary to the work Pink does *inside* the art, helping free others from behind the wall? And even if the original work didn't have this framing and perspective in mind, *this essay* does! And so the album, with its final breath, shows us the value in taking these perspectives! This analysis is an ouroboros: Reading the album this way reveals the value of ... 

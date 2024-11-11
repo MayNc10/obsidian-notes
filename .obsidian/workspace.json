@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d506ed4c15f71de2",
+        "id": "cf3453c5d7395cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "c4331cddcd598cdc",
+            "id": "b1fbaa643feabb9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
+                "file": "Art/Painting - CompGraphics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Transfeminine Perspective on Pink Floyd's The Wall"
+              "title": "Painting - CompGraphics"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md"
+                "file": "Art/Painting - CompGraphics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A Transfeminine Perspective on Pink Floyd's The Wall"
+              "title": "Outline of Painting - CompGraphics"
             }
           }
         ],
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4331cddcd598cdc",
+  "active": "b1fbaa643feabb9e",
   "lastOpenFiles": [
+    "Art/Programming Art.md",
+    "Art/Foucault.md",
+    "Art/Painting - CompGraphics.md",
+    "Art/Class Male.md",
+    "Math/Chess kinda.md",
+    "Math/Fermat's Last.md",
+    "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
     "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
     "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
     "Theory Thoughts/Historical Materialism.md",
@@ -179,19 +187,12 @@
     "Comp Geometry/Estimating Value of h.md",
     "Comp Geometry/Convex Hull.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
-    "Art/Programming Art.md",
-    "Art/Class Male.md",
     "Theory Thoughts/Rigorous Definition of Goodhart's Law.md",
     "Comp Geometry/Untitled 1.md",
     "Comp Geometry/HW1.md",
     "Math/Classification Nets.md",
     "Math/AI and Probability.md",
     "Theory Thoughts/Systems of Oppression/Symbols.md",
-    "Theory Thoughts/Systems of Oppression/Systems.md",
-    "Theory Thoughts/Systems of Oppression/Reinforcement of Systems.md",
-    "Theory Thoughts/Systems of Oppression/Intersectionality.md",
-    "EN47/Vector Optimization.md",
-    "EN47/Sorting.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",

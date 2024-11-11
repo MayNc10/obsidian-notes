@@ -1,0 +1,1 @@
+Could you make a type of textured oil or acrylic that would let some light trough behind it, to make the illusion of a painting while actually using a tv behind it?
