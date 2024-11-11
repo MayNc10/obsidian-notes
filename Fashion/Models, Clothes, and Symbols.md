@@ -1,0 +1,29 @@
+- view fashion through performativity theory - what we where echoes who we want to be
+	-  e.g. we wear a suit to be formal and confident because the symbol of the suit references the power, confidence, and formality of those who are depicted wearing the suit (businessmen)
+- However, as evidenced by the example, this creates problems because it inherently *reinforces* the power of those societal symbols which are often formed through violence
+	- i.e. as a feminist communist, I don't want to be reinforcing a connection between confidence and capitalist masculinity
+- modeling is a space to change that, by reversing the flow
+	- or in other words, modeling is where we *create* the references used by society, so this is a space for metaphysical politics
+	- we have a model who is able to embody the trait we would all like to have (this is where the skill comes in) - i.e. someone who exudes confidence or beauty or etc.
+	- you then have them model clothing in order to imbue that clothing with the trait they embody, and when that clothing is worn by others it references their performance
+- this creates a triangle of sorts
+	- [[The Modeling Triangle.canvas|The Modeling Triangle]]
+- Let's go through an example to see the conflict
+	- Confident Woman Models a Suit
+		- I'm thinking of Hayden Anhedonia for this because of course I am
+	- Women, under the patriarchy, aren't "supposed" to wear suits - this action (while not so subversive anymore) is still feminist, and furthers our politic
+	- Women, under the patriarchy, aren't "supposed" to be confident - this type of confidence is reserved for men, while women are supposed to be docile and subservient. This action is still very subversive (despite what society may want you to think), and so it furthers our politic
+	- Suits, under the patriarchy, *do* symbolize confidence - This is where our problems arise. By using a suit for this performance, we reinforce the already existing connection between suits and performance. Given the patriarchy and racist history of suits (as an element of patriarchal western fashion), this is problematic for our goals. 
+- So then the question: Is it possible to create a modeling triangle that has none of this imbalances?
+	- Also potential for math? the graph we constructed is somewhat unbalanced; it's not a cycle. Does this have anything to do with the metaphysical tension we observe?
+- I think the solution may come from intersectional models
+	- i.e. would it be completely subversive to have a beautiful *trans* woman wearing a suit?
+		- Suits aren't supposed to imply beauty 
+		- Trans women aren't supposed to be beautiful
+			- even though if we want to be successful we have to, i guess
+		- Are trans women "supposed" to wear suits?
+			- No, because one of the tenets of transfeminism is an understanding that no matter what transmisogynists say, they *do* treat trans women like women (through misogyny)
+		- but then what if this woman has other identities that are reinforced here, like thinness or whiteness?
+		- How good can we do?
+- This has definitely already been studied before- do more research into aesthetics and fashion 
+	- and performativity theory!

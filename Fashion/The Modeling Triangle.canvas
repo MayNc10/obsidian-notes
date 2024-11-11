@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"09e4e61f22ea5179","x":-460,"y":20,"width":250,"height":60,"type":"text","text":"The Clothing"},
+		{"id":"6cf3f209e4b3aa7d","x":320,"y":20,"width":250,"height":60,"type":"text","text":"The Trait "},
+		{"id":"7cba9d63066e2340","x":-40,"y":-480,"width":250,"height":60,"type":"text","text":"The Model"}
+	],
+	"edges":[
+		{"id":"cab163ea01011e72","fromNode":"7cba9d63066e2340","fromSide":"left","toNode":"09e4e61f22ea5179","toSide":"top","label":"Do [X] People Wear [X] Clothes?"},
+		{"id":"6dc7b6be17e43df4","fromNode":"09e4e61f22ea5179","fromSide":"right","toNode":"6cf3f209e4b3aa7d","toSide":"left","label":"Do [X] Clothes Embody [X] Trait? "},
+		{"id":"e7c7790095c524d3","fromNode":"7cba9d63066e2340","fromSide":"right","toNode":"6cf3f209e4b3aa7d","toSide":"top","label":"Do [X] People Embody [X] Trait?"}
+	]
+}

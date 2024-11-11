@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Painting - CompGraphics.md",
+                "file": "Fashion/Models, Clothes, and Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Painting - CompGraphics"
+              "title": "Models, Clothes, and Symbols"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Painting - CompGraphics.md"
+                "file": "Fashion/Models, Clothes, and Symbols.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Painting - CompGraphics"
+              "title": "Outline of Models, Clothes, and Symbols"
             }
           }
         ],
@@ -166,9 +166,13 @@
   },
   "active": "b1fbaa643feabb9e",
   "lastOpenFiles": [
+    "Fashion/Shirts.md",
+    "Fashion/The Modeling Triangle.canvas",
+    "Fashion/Models, Clothes, and Symbols.md",
     "Art/Programming Art.md",
-    "Art/Foucault.md",
+    "Theory Thoughts/Neocolonialism.md",
     "Art/Painting - CompGraphics.md",
+    "Art/Foucault.md",
     "Art/Class Male.md",
     "Math/Chess kinda.md",
     "Math/Fermat's Last.md",
@@ -189,10 +193,6 @@
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
     "Theory Thoughts/Rigorous Definition of Goodhart's Law.md",
     "Comp Geometry/Untitled 1.md",
-    "Comp Geometry/HW1.md",
-    "Math/Classification Nets.md",
-    "Math/AI and Probability.md",
-    "Theory Thoughts/Systems of Oppression/Symbols.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
