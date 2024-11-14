@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fashion/Models, Clothes, and Symbols.md",
+                "file": "Theory Thoughts/Models/Perspectives and Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models, Clothes, and Symbols"
+              "title": "Perspectives and Algebra"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fashion/Models, Clothes, and Symbols.md"
+                "file": "Theory Thoughts/Models/Perspectives and Algebra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Models, Clothes, and Symbols"
+              "title": "Outline of Perspectives and Algebra"
             }
           }
         ],
@@ -166,9 +166,13 @@
   },
   "active": "b1fbaa643feabb9e",
   "lastOpenFiles": [
-    "Fashion/Shirts.md",
-    "Fashion/The Modeling Triangle.canvas",
+    "Theory Thoughts/Models/Art Interpretation.md",
+    "Theory Thoughts/Models/Perspectives and Algebra.md",
+    "Theory Thoughts/Models/Untitled",
     "Fashion/Models, Clothes, and Symbols.md",
+    "Theory Thoughts/Models",
+    "Fashion/The Modeling Triangle.canvas",
+    "Fashion/Shirts.md",
     "Art/Programming Art.md",
     "Theory Thoughts/Neocolonialism.md",
     "Art/Painting - CompGraphics.md",
@@ -192,7 +196,6 @@
     "Comp Geometry/Convex Hull.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
     "Theory Thoughts/Rigorous Definition of Goodhart's Law.md",
-    "Comp Geometry/Untitled 1.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
@@ -200,8 +203,6 @@
     "EN47",
     "Comp Geometry/HW1",
     "Comp Geometry",
-    "Japanese",
-    "Voice Training Diary",
-    "Writing/Hurricane"
+    "Japanese"
   ]
 }
