@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Thoughts/Models/Perspectives and Algebra.md",
+                "file": "Math/Linh's Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perspectives and Algebra"
+              "title": "Linh's Problem"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Thoughts/Models/Perspectives and Algebra.md"
+                "file": "Math/Linh's Problem.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Perspectives and Algebra"
+              "title": "Outline of Linh's Problem"
             }
           }
         ],
@@ -166,8 +166,10 @@
   },
   "active": "b1fbaa643feabb9e",
   "lastOpenFiles": [
-    "Theory Thoughts/Models/Art Interpretation.md",
+    "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
+    "Math/Linh's Problem.md",
     "Theory Thoughts/Models/Perspectives and Algebra.md",
+    "Theory Thoughts/Models/Art Interpretation.md",
     "Theory Thoughts/Models/Untitled",
     "Fashion/Models, Clothes, and Symbols.md",
     "Theory Thoughts/Models",
@@ -181,7 +183,6 @@
     "Math/Chess kinda.md",
     "Math/Fermat's Last.md",
     "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
-    "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
     "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
     "Theory Thoughts/Historical Materialism.md",
     "Comp Geometry/Convex Hull Corner Alg.md",
@@ -195,7 +196,6 @@
     "Comp Geometry/Estimating Value of h.md",
     "Comp Geometry/Convex Hull.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
-    "Theory Thoughts/Rigorous Definition of Goodhart's Law.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
