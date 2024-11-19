@@ -8,7 +8,8 @@ $$L: \left[1, ..., n\right] \mapsto c \in \mathcal{H}$$for a category $c$ and hi
 For basics, we can ignore intersectional identities
 
 $$\forall i: \mathcal{O}_{i,i} = \mathcal{I}$$ for an identity value $\mathcal{I}$. We also have 
-$$\forall i,j: \mathcal{O}_{i,j} * \mathcal{O}_{j,i} = \mathcal{I}$$ for some binary operation $*$. 
+$$\forall i,j: \mathcal{O}_{i,j} *^{-1} \mathcal{O}_{j,i} = \mathcal{I}$$ for some binary operation $*$. Specifically, for $*$, $*^{-1}$ is its inverse such that
+$$(a * b) *^{-1} b = a$$
 
  
  Ideally, we'd be able to generate this matrix from a vector
@@ -19,8 +20,11 @@ $$\forall i,j: \mathcal{O}_{i,j} * \mathcal{O}_{j,i} = \mathcal{I}$$ for some bi
  Or
  $$\mathcal{O} = \mathcal{V} * \mathcal{V}^\intercal$$
  This is consistent with our properties above, as long as we extrapolate from the identity definition to define
- $$x * x = \mathcal{I}$$
+ $$x *^{-1} x = \mathcal{I}$$
+Which further implies
+$$x = x * \mathcal{I}$$
+
+
 This obviously satisfies the first property, and the second follows from
-$$\mathcal{O}_{i,j} * \mathcal{O}_{j,i} = (\mathcal{V}_i * \mathcal{V}_j) * ( \mathcal{V}_j * \mathcal{V}_i) $$
+$$\mathcal{O}_{i,j} *^{-1} \mathcal{O}_{j,i} = (\mathcal{V}_i * \mathcal{V}_j) *^{-1} ( \mathcal{V}_j * \mathcal{V}_i) $$
 $$ = (\mathcal{V}_i * \mathcal{V}_j) * \mathcal{V}_j * \mathcal{V}_i$$
-wait this isn't rigorous we have an inverse identity as the diagonal but we need something stronger i think cause we also want our identity to be, yknow, an indeentity. Can it have both these properties?
