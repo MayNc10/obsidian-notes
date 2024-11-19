@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Sums and Big O.md",
+                "file": "Theory Thoughts/Systems of Oppression/Opposition Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sums and Big O"
+              "title": "Opposition Matrix"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Sums and Big O.md"
+                "file": "Theory Thoughts/Systems of Oppression/Opposition Matrix.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sums and Big O"
+              "title": "Outline of Opposition Matrix"
             }
           }
         ],
@@ -166,9 +166,14 @@
   },
   "active": "66320676d9a07b94",
   "lastOpenFiles": [
+    "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
+    "Theory Thoughts/Systems of Oppression/Opposition Matrix.md",
+    "Theory Thoughts/Models/Logical and Political Systems.md",
+    "Theory Thoughts/Neocolonialism.md",
+    "Theory Thoughts/Historical Materialism.md",
+    "Math/Convex Hull Big-O.md",
     "Math/Sums and Big O.md",
     "Math/Linh's Problem.md",
-    "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
     "Theory Thoughts/Models/Perspectives and Algebra.md",
     "Theory Thoughts/Models/Art Interpretation.md",
     "Theory Thoughts/Models/Untitled",
@@ -177,7 +182,6 @@
     "Fashion/The Modeling Triangle.canvas",
     "Fashion/Shirts.md",
     "Art/Programming Art.md",
-    "Theory Thoughts/Neocolonialism.md",
     "Art/Painting - CompGraphics.md",
     "Art/Foucault.md",
     "Art/Class Male.md",
@@ -185,7 +189,6 @@
     "Math/Fermat's Last.md",
     "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
     "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
-    "Theory Thoughts/Historical Materialism.md",
     "Comp Geometry/Convex Hull Corner Alg.md",
     "Theory Thoughts/Systems of Oppression/Define a Ring.md",
     "Analysis/Arcade Fire - Funeral/Thoughts on Neighborhood 1 (Tunnels).md",
@@ -193,9 +196,6 @@
     "remote/does this count.md",
     "remote",
     "Theory Thoughts/no-future as anti-heteronormativity and child sacrifice in canaan.md",
-    "Theory Thoughts/Authority Notes.md",
-    "Comp Geometry/Estimating Value of h.md",
-    "Comp Geometry/Convex Hull.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
