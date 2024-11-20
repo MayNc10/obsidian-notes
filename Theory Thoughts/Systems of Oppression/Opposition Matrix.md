@@ -28,3 +28,17 @@ $$x = x * \mathcal{I}$$
 This obviously satisfies the first property, and the second follows from
 $$\mathcal{O}_{i,j} *^{-1} \mathcal{O}_{j,i} = (\mathcal{V}_i * \mathcal{V}_j) *^{-1} ( \mathcal{V}_j * \mathcal{V}_i) $$
 $$ = (\mathcal{V}_i * \mathcal{V}_j) * \mathcal{V}_j * \mathcal{V}_i$$
+
+## Raw Opposition 
+
+The Raw data opposition matrix encodes the direct rates for one side vs the other. For our legal context, we can have the row be plantiff identity and the column be defendant
+
+So we have a matrix $\mathcal{R}$ where $\mathcal{R}_{i,j}$ represents the percentage of cases with plaintiff $i$ and defendant $j$ that $i$ won. This means we don't have our reciprocal property, and have more freedom to determine the combining function
+
+## Manipulations
+
+One way we can rewrite this data is to compare the relative win rate to the same-identity win rate. What that means is that if we have matrix $\mathcal{R}$, we can make the "comparison" matrix $\mathcal{C}$ through
+
+$$\mathcal{C}_{i,j} = \frac{\mathcal{R}_{i,j}}{\mathcal{R}_{j,j}}$$
+This has the nice property that $$\forall i: \mathcal{C}_{i,i} = 1$$
+
