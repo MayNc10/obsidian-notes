@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Thoughts/Systems of Oppression/Systems Maintainence/Study.md",
+                "file": "Theory Thoughts/Systems of Oppression/Questions in Intersectional Feminism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Study"
+              "title": "Questions in Intersectional Feminism"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Thoughts/Systems of Oppression/Systems Maintainence/Study.md"
+                "file": "Theory Thoughts/Systems of Oppression/Questions in Intersectional Feminism.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Study"
+              "title": "Outline of Questions in Intersectional Feminism"
             }
           }
         ],
@@ -166,14 +166,18 @@
   },
   "active": "66320676d9a07b94",
   "lastOpenFiles": [
-    "Theory Thoughts/Systems of Oppression/Reinforcement of Systems.md",
+    "Chem flowchart.canvas",
+    "Theory Thoughts/Systems of Oppression/Questions in Intersectional Feminism.md",
+    "Untitled.md",
     "Theory Thoughts/Systems of Oppression/Systems Maintainence/Study.md",
+    "Untitled",
+    "Math/Parker Pi Problem.md",
+    "Theory Thoughts/Systems of Oppression/Reinforcement of Systems.md",
     "Theory Thoughts/Systems of Oppression/Quantifiable Critical Theory.md",
     "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
     "Theory Thoughts/Systems of Oppression/Common Sense and Superstructure.md",
     "Theory Thoughts/Systems of Oppression/Systems Maintainence",
-    "Theory Thoughts/Systems of Oppression/Untitled.md",
     "Theory Thoughts/Systems of Oppression/Opposition Matrix.md",
     "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
     "Theory Thoughts/Models/Logical and Political Systems.md",
@@ -193,16 +197,12 @@
     "Art/Painting - CompGraphics.md",
     "Art/Foucault.md",
     "Art/Class Male.md",
-    "Math/Chess kinda.md",
-    "Math/Fermat's Last.md",
-    "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
     "remote",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
     "EN47/Hw2.pdf",
     "EN47",
-    "Comp Geometry/HW1",
-    "Comp Geometry"
+    "Comp Geometry/HW1"
   ]
 }
