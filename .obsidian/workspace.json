@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a72cc25a3ed2ec4c",
+        "id": "ce3922181ed83780",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a270106cf66557",
+            "id": "66320676d9a07b94",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Theory Thoughts/Materialism from First Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materialism from First Principles"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Theory Thoughts/Materialism from First Principles.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Materialism from First Principles"
             }
           }
         ],
@@ -158,10 +164,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1a270106cf66557",
+  "active": "66320676d9a07b94",
   "lastOpenFiles": [
-    "Math/Linh's Problem.md",
+    "Theory Thoughts/Neocolonialism.md",
+    "Theory Thoughts/Systems of Oppression/Systems Maintainence/Study.md",
+    "Theory Thoughts/Materialism from First Principles.md",
+    "Theory Thoughts/Systems of Oppression/Questions in Intersectional Feminism.md",
+    "Chem flowchart.canvas",
+    "Untitled.md",
+    "Untitled",
+    "Math/Parker Pi Problem.md",
+    "Theory Thoughts/Systems of Oppression/Reinforcement of Systems.md",
+    "Theory Thoughts/Systems of Oppression/Quantifiable Critical Theory.md",
+    "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
+    "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
+    "Theory Thoughts/Systems of Oppression/Common Sense and Superstructure.md",
+    "Theory Thoughts/Systems of Oppression/Systems Maintainence",
+    "Theory Thoughts/Systems of Oppression/Opposition Matrix.md",
     "Theory Thoughts/Systems of Oppression/Oppression as a Lattice.md",
+    "Theory Thoughts/Models/Logical and Political Systems.md",
+    "Theory Thoughts/Historical Materialism.md",
+    "Math/Convex Hull Big-O.md",
+    "Math/Sums and Big O.md",
+    "Math/Linh's Problem.md",
     "Theory Thoughts/Models/Perspectives and Algebra.md",
     "Theory Thoughts/Models/Art Interpretation.md",
     "Theory Thoughts/Models/Untitled",
@@ -170,33 +195,15 @@
     "Fashion/The Modeling Triangle.canvas",
     "Fashion/Shirts.md",
     "Art/Programming Art.md",
-    "Theory Thoughts/Neocolonialism.md",
     "Art/Painting - CompGraphics.md",
     "Art/Foucault.md",
     "Art/Class Male.md",
-    "Math/Chess kinda.md",
-    "Math/Fermat's Last.md",
-    "Theory Thoughts/Systems of Oppression/More Oppression Algebra.md",
-    "Analysis/A Transfeminine Perspective on Pink Floyd's The Wall.md",
-    "Theory Thoughts/Historical Materialism.md",
-    "Comp Geometry/Convex Hull Corner Alg.md",
-    "Theory Thoughts/Systems of Oppression/Define a Ring.md",
-    "Analysis/Arcade Fire - Funeral/Thoughts on Neighborhood 1 (Tunnels).md",
-    "Theory Thoughts/Dengism.md",
-    "remote/does this count.md",
     "remote",
-    "Theory Thoughts/no-future as anti-heteronormativity and child sacrifice in canaan.md",
-    "Theory Thoughts/Authority Notes.md",
-    "Comp Geometry/Estimating Value of h.md",
-    "Comp Geometry/Convex Hull.md",
-    "Theory Thoughts/Systems of Oppression/Pressure Gradients.md",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
     "EN47/Hw3.pdf",
     "EN47/Hw2.pdf",
     "EN47",
-    "Comp Geometry/HW1",
-    "Comp Geometry",
-    "Japanese"
+    "Comp Geometry/HW1"
   ]
 }

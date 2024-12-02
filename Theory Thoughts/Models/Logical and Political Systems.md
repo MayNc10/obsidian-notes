@@ -1,0 +1,2 @@
+- Axioms of logical systems are paralleled by definitions and central beliefs of political systems
+	- Is this are morphism between the two?

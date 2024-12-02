@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7bcabb8a84310490","x":-120,"y":-380,"width":250,"height":60,"type":"text","text":"Al+ and Ba2+ ions"},
+		{"id":"3e064649cabadfc6","x":-155,"y":-180,"width":300,"height":60,"type":"text","text":"Al+ ions and BaSO4 precipitate"},
+		{"id":"ba055739bd031d25","x":220,"y":-40,"width":300,"height":50,"type":"text","text":"PbSO4 solid and Ba2+ ions"},
+		{"id":"8e4786bb978dd371","x":-130,"y":140,"width":250,"height":60,"type":"text","text":"Al+ ions"},
+		{"id":"e166ea5f2b161863","x":245,"y":140,"width":250,"height":60,"type":"text","text":"Ba2+ ions"}
+	],
+	"edges":[
+		{"id":"f7559884a7e3c67b","fromNode":"7bcabb8a84310490","fromSide":"bottom","toNode":"3e064649cabadfc6","toSide":"top","label":"Add Na2SO4"},
+		{"id":"850b911a762b62f8","fromNode":"3e064649cabadfc6","fromSide":"right","toNode":"ba055739bd031d25","toSide":"top","label":"Pb2+ ions"},
+		{"id":"3a637c310aeea2ed","fromNode":"3e064649cabadfc6","fromSide":"bottom","toNode":"8e4786bb978dd371","toSide":"top","label":"Filter"},
+		{"id":"d06f604d9477be7e","fromNode":"ba055739bd031d25","fromSide":"bottom","toNode":"e166ea5f2b161863","toSide":"top","label":"Filter"}
+	]
+}
