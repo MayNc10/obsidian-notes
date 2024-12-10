@@ -1,0 +1,2 @@
+- DG Bladee and meaningless consumption
+	- "me and yung lean buying the gucci store, it's like breathing air // its nothing it means nothing"

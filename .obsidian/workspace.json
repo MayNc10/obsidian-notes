@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Thoughts/Self Critique.md",
+                "file": "Writing/Melisma Articles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self Critique"
+              "title": "Melisma Articles"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Thoughts/Self Critique.md"
+                "file": "Writing/Melisma Articles.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Self Critique"
+              "title": "Outline of Melisma Articles"
             }
           }
         ],
@@ -166,8 +166,9 @@
   },
   "active": "66320676d9a07b94",
   "lastOpenFiles": [
-    "Theory Thoughts/Materialism from First Principles.md",
     "Theory Thoughts/Self Critique.md",
+    "Writing/Melisma Articles.md",
+    "Theory Thoughts/Materialism from First Principles.md",
     "Theory Thoughts/Neocolonialism.md",
     "Theory Thoughts/Systems of Oppression/Systems Maintainence/Study.md",
     "Theory Thoughts/Systems of Oppression/Questions in Intersectional Feminism.md",
@@ -197,7 +198,6 @@
     "Fashion/Shirts.md",
     "Art/Programming Art.md",
     "Art/Painting - CompGraphics.md",
-    "Art/Foucault.md",
     "remote",
     "Theory Thoughts/Systems of Oppression/Pressure Gradients.txt",
     "EN47/heap sort notes.canvas",
